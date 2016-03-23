@@ -1,0 +1,14 @@
+/* Header */
+header {
+	li {
+	    &:hover{
+	    	color: #555;
+    		background-color: #e7e7e7;
+	    }
+	}
+	li.hidden-xs {
+		a{
+			padding: 15px 0;
+		}
+	}
+}
